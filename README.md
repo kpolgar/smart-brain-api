@@ -1,4 +1,4 @@
-# smart-brain-api
+# Smart-Brain-API
 
 This API built with Node.js, Express.js, and uses PostgreSQL. It is used for user signin/registration as well as keeping track of the number of entries for each user.
 
